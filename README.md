@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on the analysis of a simulated dataset inspired by the operations of a ride-hailing service, such as Uber. The dataset contains valuable information about rides, drivers, and passengers, enabling us to uncover actionable insights and trends that can enhance the operational efficiency of the service. By leveraging SQL queries and analysis techniques, the project provides data-driven recommendations aimed at improving ride-hailing service delivery.
+This project focuses on the analysis of a simulated dataset inspired by Uber. The dataset contains valuable information about rides, drivers, and passengers, enabling us to uncover actionable insights and trends that can enhance the operational efficiency of the service. By leveraging SQL queries and analysis techniques, the project provides data-driven recommendations aimed at improving ride-hailing service delivery.
 
 ---
 
